@@ -12,8 +12,6 @@ Everything here is something I built for myself first, with my own life taken ou
 
 You talk to one Manager. It hands jobs to Leads, Leads hand them to Workers, and every one of them looks things up in a shared wiki before it asks you anything. The team talks through plain files, so it works with Claude Code, Codex, Gemini, VS Code, any terminal LLM, or a chat app where you carry the messages. Python 3.8 or newer with the standard library only, MIT licensed, on macOS, Linux and Windows.
 
-It is the setup I run my own work on, cut down so someone else can start with it.
-
 ## Also released
 
 **The second brain**
